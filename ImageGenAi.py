@@ -3,7 +3,7 @@ from google import genai
 from google.genai import types
 from PIL import Image
 from io import BytesIO
-client = genai.Client(api_key="AIzaSyCNOPu4-KxSY1n8Bz4DmULLA-ClJV32Am0")
+client = genai.Client(api_key="YOUR API KEY")
 custom_css = """
     <style>
 .st-emotion-cache-13k62yr{
